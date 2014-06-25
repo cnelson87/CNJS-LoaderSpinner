@@ -1,4 +1,5 @@
-CNJS-LoaderSpinner
-==================
+# CNJS-LoaderSpinner
 
 Universal Ajax loader &amp; spinner
+
+Registration: `bower register CNJS-LoaderSpinner git://github.com/cnelson87/CNJS-LoaderSpinner.git`
