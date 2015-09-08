@@ -14,7 +14,5 @@
 		"type": "git",
 		"url": "https://github.com/cnelson87/CNJS-LoaderSpinner"
 	},
-	"dependencies": {
-		"jquery": "~2.1.4"
-	}
+	"readmeFilename": "README.md"
 }
