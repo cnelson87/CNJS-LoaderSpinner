@@ -5,7 +5,8 @@
 	"main": [
 		"assets/LoaderSpinner.js",
 		"assets/LoaderSpinner.css",
-		"assets/spinner.gif"
+		"assets/spinner.gif",
+		"assets/spinner-dark.gif"
 	],
 	"authors": [
 		"Chris Nelson <cnelson87@gmail.com>"
