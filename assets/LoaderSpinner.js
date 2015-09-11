@@ -1,7 +1,7 @@
 /*
 	TITLE: LoaderSpinner
 
-	DESCRIPTION: Universal Ajax loader &amp; spinner
+	DESCRIPTION: Universal Ajax loader & spinner overlay
 
 	VERSION: 0.2.0
 
