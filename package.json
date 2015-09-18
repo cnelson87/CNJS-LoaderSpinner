@@ -1,19 +1,18 @@
 {
 	"name": "CNJS-LoaderSpinner",
 	"description": "Universal Ajax loader & spinner overlay",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"main": [
 		"assets/LoaderSpinner.js",
 		"assets/LoaderSpinner.css",
 		"assets/spinner.gif",
 		"assets/spinner-dark.gif"
 	],
-	"authors": [
-		"Chris Nelson <cnelson87@gmail.com>"
-	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/cnelson87/CNJS-LoaderSpinner"
 	},
+	"license": "MIT",
+	"author": "Chris Nelson <cnelson87@gmail.com>",
 	"readmeFilename": "README.md"
 }
