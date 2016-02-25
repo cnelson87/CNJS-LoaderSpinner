@@ -13,7 +13,7 @@
 		"url": "https://github.com/cnelson87/CNJS-LoaderSpinner"
 	},
 	"dependencies": {
-		"jquery": "~2.2.0"
+		"jquery": "~2.2.1"
 	},
 	"ignore": [],
 	"license": "MIT",
